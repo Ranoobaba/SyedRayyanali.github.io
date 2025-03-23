@@ -1,5 +1,4 @@
-# Syed Rayyan Ali
-- Sales Architect / Data wizard
+# Sales Architect / Data wizard
 
 #### Technical Skills: Python, MYSQL, AWS, Snowflake, Java, MAYA
 
