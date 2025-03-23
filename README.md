@@ -1,4 +1,5 @@
-# Syed Rayyan Alli
+# Syed Rayyan Ali
+![Image](https://github.com/user-attachments/assets/8bf08bbe-e2ab-4c07-a0c4-64be8ad1bf60)
 - Sales Architect / Data wizard
 
 #### Technical Skills: Python, MYSQL, AWS, Snowflake, Java, MAYA
@@ -7,7 +8,7 @@
 - B.E., Industiral Engineering & Operations research & B.A Data Science| The University of California Berkeley (_May 2027_)
 
 ## Work Experience
-**Head of Sales CodemindBerkeley**
+**Head of Sales Codemind Berkeley (_June 2023 - August 2024_)**                                        ![Image](https://github.com/user-attachments/assets/b7b7d7db-509d-430c-a592-bc13f50addb1)
 - Co-founded tech startup while at UC Berkeley, developing a Rust-based web scraping program that collected 1000+ high school descriptions to enhance research capabilities
 - Created company's HR system with ChatGPT4 API integration, led Advertising and Investor Relations securing $100,000 first-round investment and increasing profits by 400%
 - Guided students in building ML models for medical disease detection, combining technical expertise with mentorship and practical AI application development
